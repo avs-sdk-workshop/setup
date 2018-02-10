@@ -4,15 +4,20 @@ title: '1. Setup Your Pi'
 
 layout: nil
 ---
-**Note:  you can skip this step if your Pi is already up and running.**
+**You'll need a Raspberry Pi, SD Card, USB Mic, and Earbuds for this tutorial**
 
-Let's begin by setting up the Pi. The Raspberry Pi 3 board includes -
+Buy any supplies you don't already have on Amazon:   http://a.co/46Jz9vy
 
-- 4 USB ports
-- HDMI port for video output (you'll be using this to connect to your HDMI monitor)
-- 3.5mm audio jack for sound output (you'll be using to connect your earphones)
-- Micro SD card slot
-- Ethernet port
+
+{:.steps}
+### Image your SD Card for the Raspberry Pi
+
+**On Windows PC**
+Get Win32DiskImager [here](https://sourceforge.net/projects/win32diskimager/) and follow the instructions [here](https://fakelink.com) to burn the pre-compiled image to your SD card.
+
+**Mac OSX**
+Get Etcher.io [here](https://etcher.io/) and follow the instructions [here](https://fakelink.com) to burn the pre-compiled image to your SD card.
+ 
 
 {:.steps}
 ### Assembling Your Pi
