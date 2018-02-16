@@ -31,7 +31,7 @@ Get Etcher.io [here](https://etcher.io/) and follow the instructions [here](http
 {:.steps}
 ### Booting Your Pi
 
-1. Plug in the power supply to the micro USB connector on the Pi.  You should see a loading screen go through some startup steps before booting to desktop - if you run into any errors, request a new SD micro card to boot the OS from.
+1. Plug in the power supply to the micro USB connector on the Pi.  You should see a loading screen go through some startup steps before booting to desktop - if you run into any errors, request a new SD micro card to boot the OS from.  
 2. Open a web browser by clicking on the globe icon in the top left toolbar.
 
 {:.verify}
