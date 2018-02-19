@@ -4,18 +4,21 @@ title: '1. Setup Your Pi'
 
 layout: nil
 ---
-**You'll need a Raspberry Pi, SD Card, USB Mic, and Earbuds for this tutorial**
+**You'll need a Raspberry Pi, SD Card, USB Mic, and 3.5mm Earbuds (or a Speaker) for this tutorial**
 
 Buy any supplies you don't already have on Amazon:   http://a.co/46Jz9vy
 
+And download the precompiled SD card image [here](https://fakelinkdropbox.com) 
 
 {:.steps}
 ### Image your SD Card for the Raspberry Pi
 
-**On Windows PC**
+**Windows PC:**
+
 Get Win32DiskImager [here](https://sourceforge.net/projects/win32diskimager/) and follow the instructions [here](https://fakelink.com) to burn the pre-compiled image to your SD card.
 
-**Mac OSX**
+**Mac OSX:**
+
 Get Etcher.io [here](https://etcher.io/) and follow the instructions [here](https://fakelink.com) to burn the pre-compiled image to your SD card.
  
 
@@ -26,14 +29,17 @@ Get Etcher.io [here](https://etcher.io/) and follow the instructions [here](http
 2. Plug in the USB microphone and 3.5mm earbuds.
 4. Connect the keyboard and mouse to the USB ports.
 5. Connect your monitor using the HDMI port.
-6. Connect the Ethernet Cable.
+6. Connect the Ethernet Cable (if not using Wifi)
+
+![Setup_Pi](/assets/Rasp_Pi.jpg)
 
 {:.steps}
 ### Booting Your Pi
 
-1. Plug in the power supply to the micro USB connector on the Pi.  You should see a loading screen go through some startup steps before booting to desktop - if you run into any errors, request a new SD micro card to boot the OS from.  
-2. Open a web browser by clicking on the globe icon in the top left toolbar.
+1. Plug in the power supply to the micro USB connector on the Pi.  You should see a loading screen go through some startup steps before booting to desktop - if you run into any errors, try imaging a new SD micro card to boot the OS from. 
+2. If not using wired Ethernet, activate wifi on your Raspberry Pi by clicking on the wifi icon in the top right corner of the toolbar and selecting your SSID.
+3. Open a web browser by clicking on the globe icon in the top left toolbar.
 
 {:.verify}
 ### Checkpoint 1
-1. Make sure you're connected to the internet and are able to navigate to [https://developer.amazon.com](https://developer.amazon.com).
+1. Make sure you're connected to the internet and are able to navigate to the developer homepage at [https://developer.amazon.com](https://developer.amazon.com).
