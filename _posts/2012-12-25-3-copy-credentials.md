@@ -1,5 +1,5 @@
 ---
-title: '5. Copy Your Credentials'
+title: '3. Copy Your Credentials'
 
 
 layout: nil
@@ -18,13 +18,13 @@ DEVICE_SERIAL_NUMBER=""
 CLIENT_ID=""
 PRODUCT_ID=""
 `
-In your web browser, Navigate back to the AVS dashboard:  [https://developer.amazon.com/avs/home.html#/avs/home](https://developer.amazon.com/avs/home.html#/avs/home).
+In your web browser, navigate back to the AVS dashboard, where you can see all of your products associated with your Developer Account:  [https://developer.amazon.com/avs/home.html#/avs/home](https://developer.amazon.com/avs/home.html#/avs/home).
 
-Click **Manage**. From **Details and management** copy your **Product ID** (no spaces) into the `PRODUCT_ID` field of your **config.sh** file.  For this project, the Product ID should be "PROTOTYPE".
+Click **Manage**. From **Details and management** copy your **Product ID** (no spaces) into the **PRODUCT_ID** field of your **config.sh** file.  For this project, the Product ID should be "PROTOTYPE".
 
-Select **Security Profile** from the left tab and copy your **Client ID** and **Client Secret**.
+Locate your Client ID and Client Secret (it should be visible after clicking "manage" on your product).  Copy your **Client ID** and **Client Secret**.
 
-Place the **ClientID** and **ClientSecret** into the `CLIENT_ID` and `CLIENT_SECRET` fields. 
+Place the **ClientID** and **ClientSecret** into the `CLIENT_ID` and `CLIENT_SECRET` fields in your config.sh file. 
 
 The **Device Serial Number** is created by device makers and isn't used by AVS - for this workshop, it can be any alpha-numeric value (here it's 123456):
 
