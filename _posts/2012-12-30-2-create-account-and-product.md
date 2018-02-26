@@ -10,8 +10,9 @@ layout: nil
 
 If this is your first time creating an AVS product, you'll need to be a registered **Amazon Developer**. Follow the instructions [here-UPDATE](https://developer.amazon.com/login.html) to create your free developer account. 
 
-Next, you'll need to create a **Product Profile** for your first AVS Prototype.  Follow the instructions [here-UPDATE](https://developer.amazon.com/login.html) to create your AVS Prototype.  Ensure that your Product Name and Product ID are registered as **"Prototype"** for tracking purposes.
+Next, you'll need to create a **Product Profile** and **Security Profile** for your first AVS Prototype.  Follow the instructions [here-UPDATE](https://developer.amazon.com/login.html) to create your AVS Prototype.  Ensure that your Product Name and Product ID are registered as **"Prototype"** for tracking purposes.
 
+![ConsoleProto](https://alexavoiceservice.github.io/setup/assets/Prototype.png)
 
 
 {:.verify}
