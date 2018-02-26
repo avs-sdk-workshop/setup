@@ -35,6 +35,7 @@ DEVICE_SERIAL_NUMBER="123456"
 CLIENT_ID="amzn1.application-oa2-client.12345678901234567890123456789012"
 PRODUCT_ID="PROTOTYPE"
 `
+
 {:.verify}
 ### Checkpoint 3
 
