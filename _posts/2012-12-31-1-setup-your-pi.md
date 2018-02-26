@@ -15,17 +15,15 @@ If you don't already have these items, you can buy what you need on Amazon:   [h
 
 **First, use your PC to image your SD card with Raspbian OS and the AVS Device SDK.**
 
-You can download the precompiled SD card image [here].(https://fakelinkdropbox.com) 
+You can download the precompiled SD card image [here](https://fakelinkdropbox.com). 
 
-{:.steps}
+
 ### Download the workshop image onto your SD Card for the Raspberry Pi
 
 **Windows PC:**
-
 Get Win32DiskImager [here](https://sourceforge.net/projects/win32diskimager/) and follow the instructions [here](https://fakelink.com) to burn the pre-compiled image to your SD card.
 
 **Mac OSX:**
-
 Get Etcher.io [here](https://etcher.io/) and follow the instructions [here](https://fakelink.com) to burn the pre-compiled image to your SD card.
  
 
