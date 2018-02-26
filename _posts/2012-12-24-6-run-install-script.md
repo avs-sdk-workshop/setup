@@ -20,7 +20,7 @@ If you have made an error in filling out the **config.sh** file with your accoun
 
 If your build was successful, you'll receive a printout of your configuration details (such as Client ID and Client Secret) plus a message informing you that Configuration/Build was successful.
 
-![build_success](/assets/build_successful.png)
+![build_success](https://alexavoiceservice.github.io/setup/assets/build_successful.png)
 
 For this workshop, portions of the script have been pre-built to get your client up and running faster.  If you use this script for an install on a clean OS image, expect it to take around 20 minutes to build.  You can use the text editor to view the contents of the **setup.sh** file. It's a relatively simple script designed to run on a clean install of the Raspbian **stretch** OS.
 
