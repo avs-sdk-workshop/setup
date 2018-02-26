@@ -8,6 +8,8 @@ layout: nil
 
 Buy any supplies you don't already have on Amazon:   http://a.co/46Jz9vy
 
+![ShoppingCart](https://alexavoiceservice.github.io/setup/assets/ShoppingList.PNG)
+
 **Your SD card needs to be loaded with Raspbian OS and the AVS Device SDK**
 
 You can download the precompiled SD card image [here](https://fakelinkdropbox.com) 
