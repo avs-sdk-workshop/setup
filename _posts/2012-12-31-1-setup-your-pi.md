@@ -28,7 +28,7 @@ Get [Etcher.io](https://etcher.io/) and follow the instructions [here](https://f
  
 
 
-### Plug everything in to your Raspberry Pi 
+### Plug everything in to your Raspberry Pi: 
 
 1. Check that your micro SD card is inserted into the micro SD card slot on your Pi.  Contacts face up.
 2. Plug in the USB microphone and 3.5mm earbuds.
@@ -36,7 +36,7 @@ Get [Etcher.io](https://etcher.io/) and follow the instructions [here](https://f
 4. Connect your monitor using the HDMI port.
 5. Connect the Ethernet Cable (if not using Wifi)
 
-Your completed setup should look something like this:
+**Your completed setup should look something like this:**
 
 ![Setup_Pi](https://alexavoiceservice.github.io/setup/assets/Rasp_Pi.jpg)
 
