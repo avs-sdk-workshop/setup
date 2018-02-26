@@ -9,7 +9,7 @@ layout: nil
 
 **You'll need a Raspberry Pi 3, SD Card, USB Mic, and 3.5mm Earbuds (or a Speaker).**
 
-If you don't already have these items, you can buy what you need on Amazon:   [http://a.co/46Jz9vy](http://a.co/46Jz9vy)
+If you don't already have these items, you can find what you need on Amazon by clicking [here](http://a.co/46Jz9vy).
 
 ![ShoppingCart](https://alexavoiceservice.github.io/setup/assets/ShoppingList.PNG)
 
@@ -21,14 +21,14 @@ You can download the precompiled SD card image [here](https://fakelinkdropbox.co
 ### Download the workshop image onto your SD Card for the Raspberry Pi
 
 **Windows PC:**
-Get Win32DiskImager [here](https://sourceforge.net/projects/win32diskimager/) and follow the instructions [here](https://fakelink.com) to burn the pre-compiled image to your SD card.
+Get [Win32DiskImager](https://sourceforge.net/projects/win32diskimager/) and follow the instructions [here](https://fakelink.com) to burn the pre-compiled image to your SD card.
 
 **Mac OSX:**
-Get Etcher.io [here](https://etcher.io/) and follow the instructions [here](https://fakelink.com) to burn the pre-compiled image to your SD card.
+Get [Etcher.io](https://etcher.io/) and follow the instructions [here](https://fakelink.com) to burn the pre-compiled image to your SD card.
  
 
 
-### Assembling Your Pi
+### Plug everything in to your Raspberry Pi 
 
 1. Check that your micro SD card is inserted into the micro SD card slot on your Pi.  Contacts face up.
 2. Plug in the USB microphone and 3.5mm earbuds.
@@ -41,7 +41,7 @@ Your completed setup should look something like this:
 ![Setup_Pi](https://alexavoiceservice.github.io/setup/assets/Rasp_Pi.jpg)
 
 
-### Booting Your Raspberry Pi
+### Start up your Raspberry Pi!
 
 Plug in the power supply to the micro USB connector on the Pi.  You should see a loading screen go through some startup steps before booting to desktop - if you run into any errors, try imaging a new SD micro card to boot the OS from.  Ensure your SD card was inserted upside-down (contacts facing up).
 
