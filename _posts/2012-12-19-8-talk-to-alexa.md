@@ -1,5 +1,5 @@
 ---
-title: '10. Talk to Alexa'
+title: '8. Talk to Alexa'
 
 
 layout: nil
@@ -14,17 +14,14 @@ You can now talk to your Pi by simply saying the wake word "Alexa". Try the foll
 * Say "Alexa", then ask "What's the weather in Las Vegas?"  
 * Say "Alexa", then say "Set a timer for 5 seconds."
 * Say "Alexa", then say "Play NPR news on TuneIn."
-* Say "Alexa", then say "Good afternoon."
-* Say "Alexa", then say "Tell me a joke."
-* Say "Alexa", then ask "What's the meaning of life?"
-* Say "Alexa", then say "Sing happy birthday."
-* Say "Alexa", then ask "What day of the week does Christmas fall on?"
+* Say "Alexa", then say "How did the stock market do today?"
 * Say "Alexa", then ask "Where were you born?"
-* Say "Alexa", then ask "Can you rap?"
 
 ### Try a Multi-Turn interaction
 
-* Say "Alexa", then ask "Set an alarm for 12:30".  You should receive a response asking you to clarify AM or PM.  Respond to the question with "Afternoon".  If you have DEBUG9 active, scroll up until you see **Listening...** - right above that you'll see that the state of the **Audio Input Processor** (AIP) has changed from `IDLE` to `EXPECTING_SPEECH` and then `RECOGNIZING` - without you speaking the wake word!  Typically, the AIP is triggered by the **Wake Word Engine** running on the client - but in this case, it's been activated via a **Directive** delivered down to your client from the cloud.
+Say "Alexa", then ask "Set an alarm for 12:30".  You should receive a response asking you to clarify AM or PM.  Respond to the question with "Afternoon".  Note that you didn't have to say "Alexa" when responding to the question!
+
+If you have DEBUG9 active, scroll up until you see **Listening...** - right above that you'll see that the state of the **Audio Input Processor** (AIP) has changed from `IDLE` to `EXPECTING_SPEECH` and then `RECOGNIZING` - without you speaking the wake word!  Typically, the AIP is triggered by the **Wake Word Engine** running on the client - but in this case, it's been activated via a **Directive** delivered down to your client from the cloud.
 
 ![AIP_multiturn](../assets/AIP_Multi.png)
 
@@ -34,4 +31,4 @@ Multi-turn interactions can feel like a more natural method of communication, si
 
 * Say "Alexa, Wikipedia" - you'll have the option of looking up any subject without having to speak the wake word before the subject.
 * Say "Alexa, let's chat" to initiate a conversation with a chat bot!
-* Say "Alexa, play Yes Sire" to play a medieval-themed game using your voice.
+* Say "Alexa, play Yes Sire" to play a medieval-themed game using your voice, entirely in Multi-Turn interactions.
