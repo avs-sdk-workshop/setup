@@ -25,6 +25,6 @@ Ensure that your **Product Name** and **Product ID** are registered as **"Protot
 {:.verify}
 ### Checkpoint 2
 1. Login and navigate to [https://developer.amazon.com/edw/home.html](https://developer.amazon.com/edw/home.html)
-2. Locate your product profile in your developer dashboard.  Verify that it is named "Prototype" as shown above.
+2. Locate your product profile in your developer dashboard.  Verify that it is named **"Prototype"** as shown above.
 
 
