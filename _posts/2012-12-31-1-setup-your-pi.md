@@ -45,9 +45,11 @@ Your completed setup should look something like this:
 
 ### Booting Your Raspberry Pi
 
-1. Plug in the power supply to the micro USB connector on the Pi.  You should see a loading screen go through some startup steps before booting to desktop - if you run into any errors, try imaging a new SD micro card to boot the OS from.  Ensure your SD card was inserted upside-down (contacts facing up).
-2. If not using wired Ethernet, activate wifi on your Raspberry Pi by clicking on the wifi icon in the top right corner of the toolbar and selecting your SSID.
-3. Verify connectivity by opening a web browser - click on the globe icon in the top left toolbar.
+Plug in the power supply to the micro USB connector on the Pi.  You should see a loading screen go through some startup steps before booting to desktop - if you run into any errors, try imaging a new SD micro card to boot the OS from.  Ensure your SD card was inserted upside-down (contacts facing up).
+
+If not using wired Ethernet, activate wifi on your Raspberry Pi by clicking on the wifi icon in the top right corner of the toolbar and selecting your SSID.
+
+Verify connectivity by opening a web browser - click on the globe icon in the top left toolbar.
 
 {:.verify}
 ### Checkpoint 1
