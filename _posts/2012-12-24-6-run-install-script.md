@@ -1,12 +1,12 @@
 ---
-title: '6. Run the Install Script'
+title: '4. Install the AVS Device SDK'
 
 
 layout: nil
 ---
 
 
-### Run the Install Script
+### Run the AVS Device SDK Install Script
 
 You are now ready to run the install script. This will install all dependencies, including the **Wake Word Engine** (WWE) from Sensory.  The WWE compares your captured audio to an onboard model of a wake word (in this case "Alexa") and will initiate the connection to send captured audio to the AVS when triggered.
 
@@ -16,7 +16,7 @@ To run the install script, open a **terminal** by clicking on the console window
 bash setup.sh config.sh
 `
 
-If you have made an error in filling out the **config.sh** file with your account-specific information, the script will error out and inform you which field needs to be fixed.  In this event, return to your **security profile** on your Developer page and double-check your copy and paste into **config.sh** was correct.
+If you have made an error in filling out the **config.sh** file with your account-specific information, the script will error out and inform you which field needs to be fixed.  In this event, return to your **Dashboard** on your Developer page, click **Manage** on your "Prototype" product, and double-check your copy and paste into **config.sh** was correct.
 
 If your build was successful, you'll receive a printout of your configuration details (such as Client ID and Client Secret) plus a message informing you that Configuration/Build was successful.
 
