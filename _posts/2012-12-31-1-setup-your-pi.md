@@ -4,15 +4,18 @@ title: '1. Setup Your Pi'
 
 layout: nil
 ---
-**You'll need a Raspberry Pi, SD Card, USB Mic, and 3.5mm Earbuds (or a Speaker) for this tutorial**
 
-Buy any supplies you don't already have on Amazon:   http://a.co/46Jz9vy
+### Get your required hardware!
+
+**You'll need a Raspberry Pi 3, SD Card, USB Mic, and 3.5mm Earbuds (or a Speaker).**
+
+If you don't already have these items, you can buy what you need on Amazon:   [http://a.co/46Jz9vy](http://a.co/46Jz9vy)
 
 ![ShoppingCart](https://alexavoiceservice.github.io/setup/assets/ShoppingList.PNG)
 
-**Your SD card needs to be loaded with Raspbian OS and the AVS Device SDK**
+**First, use your PC to image your SD card with Raspbian OS and the AVS Device SDK.**
 
-You can download the precompiled SD card image [here](https://fakelinkdropbox.com) 
+You can download the precompiled SD card image [here].(https://fakelinkdropbox.com) 
 
 {:.steps}
 ### Download the workshop image onto your SD Card for the Raspberry Pi
