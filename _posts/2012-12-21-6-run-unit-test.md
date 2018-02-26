@@ -19,4 +19,4 @@ For this workshop, tests have been pre-built to save time.  If you have your ear
 
 Your test should show success, with the possible exception of a few Sensory WWE fails.  As a developer, any time you modify your client's on-device software, you should run **Unit Test** to ensure nothing was unintentionally broken.  Now you're ready to launch your client!
 
-![test_pass](/assets/testPassed.png)
+![test_pass](https://alexavoiceservice.github.io/setup/assets/testPassed.png)
