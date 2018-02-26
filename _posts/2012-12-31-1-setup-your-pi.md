@@ -34,6 +34,7 @@ Get Etcher.io [here](https://etcher.io/) and follow the instructions [here](http
 5. Connect the Ethernet Cable (if not using Wifi)
 
 Your completed setup should look something like this:
+
 ![Setup_Pi](https://alexavoiceservice.github.io/setup/assets/Rasp_Pi.jpg)
 
 
