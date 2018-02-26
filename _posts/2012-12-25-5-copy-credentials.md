@@ -5,9 +5,11 @@ title: '5. Copy Your Credentials'
 layout: nil
 ---
 
-1. On your Raspberry Pi, open the File Explorer by clicking on the folder icon on your toolbar at the top left.  It should come up in the */home/pi* folder.  Navigate to the *avs-sdk* folder.  Right-click on **config.sh** and select "Text Editor" to open your configuration file.  
+### Load your Device Credentials onto your AVS Prototype
 
-![](assets/config_file.png)
+On your Raspberry Pi, open the File Explorer by clicking on the folder icon on your toolbar at the top left.  It should come up in the */home/pi* folder.  Navigate to the *avs-sdk* folder.  Right-click on **config.sh** and select "Text Editor" to open your configuration file.  
+
+![config](assets/config_file.png)
 
 It should contain the following fields:
 
