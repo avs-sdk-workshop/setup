@@ -9,7 +9,7 @@ layout: nil
 
 On your Raspberry Pi, open the File Explorer by clicking on the folder icon on your toolbar at the top left.  It should come up in the */home/pi* folder.  Navigate to the *avs-sdk* folder.  Right-click on **config.sh** and select "Text Editor" to open your configuration file.  
 
-![config](assets/config_file.png)
+![config](https://alexavoiceservice.github.io/setup/assets/config_file.png)
 
 It should contain the following fields:
 
