@@ -31,7 +31,7 @@ Get Etcher.io [here](https://etcher.io/) and follow the instructions [here](http
 5. Connect your monitor using the HDMI port.
 6. Connect the Ethernet Cable (if not using Wifi)
 
-![Setup_Pi](/assets/Rasp_Pi.jpg)
+![Setup_Pi](https://alexavoiceservice.github.io/setup/assets/Rasp_Pi.jpg)
 
 {:.steps}
 ### Booting Your Pi
