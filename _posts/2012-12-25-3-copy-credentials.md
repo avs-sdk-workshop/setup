@@ -24,7 +24,7 @@ Click **Manage**. From **Details and management** copy your **Product ID** (no s
 
 Locate your Client ID and Client Secret (it should be visible after clicking "manage" on your product).  Copy your **Client ID** and **Client Secret**.
 
-Place the **ClientID** and **ClientSecret** into the `CLIENT_ID` and `CLIENT_SECRET` fields in your config.sh file. 
+Place the **ClientID** and **ClientSecret** into the **CLIENT_ID** and **CLIENT_SECRET** fields in your config.sh file. 
 
 The **Device Serial Number** is created by device makers and isn't used by AVS - for this workshop, it can be any alpha-numeric value (here it's 123456):
 
